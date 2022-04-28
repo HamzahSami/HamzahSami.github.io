@@ -1,4 +1,4 @@
-# HamzahSami.github.io
+# Hamzah Sami Project Portfolio
 
 [Project 1: Medical Appt Analysis](https://github.com/HamzahSami/Data-Analysis-Projects/tree/main/Medical%20Appt%20Analysis)
 
